@@ -1,2 +1,2 @@
-cd ~/Project/
-python -m SimpleHTTPServer 8004
+cd ~/Project/WebStack-vue
+python -m SimpleHTTPServer 80
