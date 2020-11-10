@@ -1,1 +1,2 @@
-python -m SimpleHTTPServer 8004 -d /root/Project/WebStack-vue
+cd ~/Project/
+python -m SimpleHTTPServer 8004
