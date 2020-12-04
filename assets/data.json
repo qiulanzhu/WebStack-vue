@@ -5,6 +5,36 @@ getData([
         "icon": "linecons-star",
         "web": [
             {
+                "url": "http://www.json.cn/",
+                "logo": "assets/images/logos/JSON.ico",
+                "title": "JSON解析",
+                "desc": "JSON在线解析及格式化验证"
+            },
+            {
+                "url": "https://www.bejson.com/enc/urlencode",
+                "logo": "assets/images/logos/bejson-q.png",
+                "title": "URL编码",
+                "desc": "在线url网址编码、解码"
+            },
+            {
+                "url": "https://ip.cn",
+                "logo": "assets/images/logos/ip.png",
+                "title": "IP",
+                "desc": "IP地址查询"
+            },
+            {
+                "url": "https://tool.lu/timestamp/",
+                "logo": "assets/images/logos/timestamp.png",
+                "title": "时间戳转换",
+                "desc": "时间戳（Unix timestamp）转换工具"
+            },
+            {
+                "url": "https://tool.lu/httpcode/",
+                "logo": "assets/images/logos/http_icon.png",
+                "title": "Http状态码",
+                "desc": "所有HTTP状态码,以及他们各自所代表的含义"
+            },
+            {
                 "url": "https://dribbble.com/",
                 "logo": "assets/images/logos/dribbble.png",
                 "title": "Dribbble",
